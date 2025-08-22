@@ -38,7 +38,7 @@ A dynamic table component with support for sorting, row selection, and customiza
 
 ![DataTable Demo](./src/screenshots/DataTable-demo.png)
 
-## 🎥 Demo Video
+## Demo Video
 
 ### Project Showcase
 
@@ -50,11 +50,43 @@ A dynamic table component with support for sorting, row selection, and customiza
 
 [InputField Demo Video](./src/video/InpurField-v-demo.mp4)
 
+## Setup Instructions
+
+Follow these steps to set up and run the project locally:
+
+1. **Install dependencies**:
+
+   ```bash
+   npm install
+   ```
+
+2. **Run the development server**:
+
+   ```bash
+   npm run dev
+   ```
+
+3. **Run Storybook**:
+
+   ```bash
+   npm run storybook
+   ```
+
+4. **Build the project**:
+
+   ```bash
+   npm run build-storybook
+   ```
+
+5. **Preview the project**:
+
+   ```bash
+   npm run preview
+   ```
+
 ## Storybook Preview
 
-<!-- [Live Demo of project](#)   -->
-_Deployed using Vercel._
+[View Storybook](https://www.chromatic.com/build?appId=68a7fadfae56dea793b7c3b3&number=1)  
+_Deployed using Chromatic._
 
----
-
-This project demonstrates the ability to create reusable, scalable, and well-documented components.
+### This project demonstrates the ability to create reusable, scalable, and well-documented components
