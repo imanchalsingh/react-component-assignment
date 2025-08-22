@@ -1,6 +1,6 @@
 # React Component Assignment
 
-This project is part of an internship assignment to showcase reusable React components built with **TypeScript**, **Vite**, and **TailwindCSS**.
+This project is reusable React components built with **TypeScript**, **Vite**, and **TailwindCSS**.
 
 ## Features
 
@@ -44,11 +44,11 @@ A dynamic table component with support for sorting, row selection, and customiza
 
 ### DataTable Component video-demo
 
-[Download DataTable Demo Video](./src/video/DataTable-v-demo.mp4)
+[DataTable Demo Video](./src/video/DataTable-v-demo.mp4)
 
 ### InputField Component video-demo
 
-[Download InputField Demo Video](./src/video/InpurField-v-demo.mp4)
+[InputField Demo Video](./src/video/InpurField-v-demo.mp4)
 
 ## Storybook Preview
 
